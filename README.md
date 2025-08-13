@@ -2,7 +2,7 @@
 - 📫 Para falar comigo envie um email para pabloscv@gmail.com
 - Essa é uma imagem do docker com redis memory cache vindo do postgresql
 
-- docker ps
+* docker ps
 docker inspect -f "{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}" IDCONTEINER
 Precisa REDIS
 Precisa PostgreSQL
