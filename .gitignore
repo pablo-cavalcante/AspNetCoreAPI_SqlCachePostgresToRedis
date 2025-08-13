@@ -1,0 +1,10 @@
+**\bin
+**\bin\**
+**\obj
+**\obj\**
+**\Nuget
+**\Nuget\**
+**\.config\**
+**\.config
+.vs
+/Nuget
